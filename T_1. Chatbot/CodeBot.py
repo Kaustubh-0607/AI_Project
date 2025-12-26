@@ -107,7 +107,7 @@ def chatbot_reply(user_msg):
     elif "ai" in msg or "ml" in msg or "artificial" in msg:
         return (
             "**CodeBot:** **Here are the details for the AI/ML Internship:**\n"
-            "- **Topics Covered:**\n"
+            "- **Topics Covered:** Machine Learning, Deep Learning, Neural Networks, Natural Language Processing\n"
             "- Projects: Chatbots, Face Detection, Image Captioning, Recommendation System, AI Games\n"
             "- Duration: 1 or 2 months\n"
             "- Mode: 100% Online\n"
